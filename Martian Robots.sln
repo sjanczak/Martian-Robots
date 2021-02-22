@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianExploration", "MartianExploration\MartianExploration.csproj", "{215F852D-4D3E-4A9B-825C-7204E3607CEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianExplorationTests", "MartianExplorationTests\MartianExplorationTests.csproj", "{ECF22D62-A0E7-4E3A-9927-BC5F374FB78D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2871C7C8-F57D-46AF-BD57-655AE64DA30D}"
+	ProjectSection(SolutionItems) = preProject
+		Coding_Challenge.pdf = Coding_Challenge.pdf
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MartianExplorationDomain", "MartianExplorationDomain\MartianExplorationDomain.csproj", "{6E095586-C7CB-430C-A123-22E5F61430FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215F852D-4D3E-4A9B-825C-7204E3607CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215F852D-4D3E-4A9B-825C-7204E3607CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215F852D-4D3E-4A9B-825C-7204E3607CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215F852D-4D3E-4A9B-825C-7204E3607CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF22D62-A0E7-4E3A-9927-BC5F374FB78D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF22D62-A0E7-4E3A-9927-BC5F374FB78D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF22D62-A0E7-4E3A-9927-BC5F374FB78D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF22D62-A0E7-4E3A-9927-BC5F374FB78D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E095586-C7CB-430C-A123-22E5F61430FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E095586-C7CB-430C-A123-22E5F61430FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E095586-C7CB-430C-A123-22E5F61430FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E095586-C7CB-430C-A123-22E5F61430FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E625552A-6BAC-46FC-A0C1-7AC0812B36E9}
+	EndGlobalSection
+EndGlobal

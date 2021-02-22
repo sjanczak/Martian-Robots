@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Exploration" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MartianExplorationDomain\MartianExplorationDomain.csproj" />
+  </ItemGroup>
+
+</Project>
