@@ -2,9 +2,9 @@ A coding challenge about telemetry for Martian robots that I completed in 2021.
 
 Future concerns:
 1. Telemetry commands are simple and do not allow for state beyond one command.
-  a. You would want to have a more formal command language to enable heartbeats as well as more granular individual commands.
+   a. You would want to have a more formal command language to enable heartbeats as well as more granular individual commands.
   b. You will want to able to upgrade the software and firmware.
-2. How would these commands be sent to Mars.
+3. How would these commands be sent to Mars.
   a. Over physical telecommunications equipment.
     i. You would want redundancy in the equipment.
   b. You need to deal with a 4 to 24 minute delay in message transit depending on varying distance between earth and mars.
